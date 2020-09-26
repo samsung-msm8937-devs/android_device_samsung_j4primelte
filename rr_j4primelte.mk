@@ -38,7 +38,7 @@ TARGET_VENDOR_PRODUCT_NAME := j4primelte
 PRODUCT_BUILD_PROP_OVERRIDES += PRIVATE_BUILD_DESC="j4primeltedx-user 9 PPR1.180610.011 J415FXXU2BSDM release-keys"
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
-BUILD_FINGERPRINT := "google/coral/coral:10/QQ3A.200805.001/6578210:user/release-keys"
+BUILD_FINGERPRINT := "google/coral/coral:11/RP1A.200720.009/6720564:user/release-keys"
 
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.build.fingerprint=google/coral/coral:10/QQ3A.200805.001/6578210:user/release-keys
+    ro.build.fingerprint=google/coral/coral:11/RP1A.200720.009/6720564:user/release-keys
