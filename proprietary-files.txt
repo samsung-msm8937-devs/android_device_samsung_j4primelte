@@ -1,0 +1,6 @@
+# Camera
+vendor/bin/mm-qcamera-daemon
+vendor/lib/libmmcamera2_sensor_modules.so
+
+# Sensors
+vendor/lib/hw/sensors.msm8937.so
