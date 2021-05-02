@@ -27,3 +27,7 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Inherit vendor
 $(call inherit-product, vendor/samsung/j4primelte/j4primelte-vendor.mk)
+
+# Overlays
+DEVICE_PACKAGE_OVERLAYS += \
+    $(LOCAL_PATH)/overlay
